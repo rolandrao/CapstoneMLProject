@@ -32,5 +32,4 @@ keras.callbacks <br>
 tensorflow.keras.optimizers <br>
 
 ## Navigating Instructions
-## 
-##
+The main deliverables for this project are located in the Exploratory Data Analysis notebook. To access the data used for this project click on the data folder and then the zipped data folder, all of the data provided for this project is located in this folder. 
